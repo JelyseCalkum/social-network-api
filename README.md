@@ -1,2 +1,2 @@
 ## Summary
- This application is for building an API for a social media network that can handle large amounts of unstructured data utilizing a NoSQL database. The user has the ability to add, delete, get, and update users, friends of users, thoughts, and reactions on those thoughts. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM.
+ This application is used for building an API for a social media network that can handle large amounts of unstructured data utilizing a NoSQL database. The user has the ability to add, delete, get, and update users, friends of users, thoughts, and reactions on those thoughts. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM.
