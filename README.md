@@ -21,4 +21,4 @@ Mongoose
 Thank you to the UofO Fullstack Coding Bootcamp for providing me with the tools and knowledge to complete this project.
 
 ## License
-This project is licensed under the MIT license.
+This project is licensed under the ISC license.
